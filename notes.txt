@@ -1,0 +1,3 @@
+Socket.io is a library that enables real-time, bidirectional and event-based communication between the server and browser.
+
+Socket.io is not a WebSocket implementation
